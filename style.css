@@ -1,0 +1,6 @@
+.flaticon-play-button-arrowhead:before {
+    content: "\f101";
+    /* width: 50px; */
+    color: red;
+    font-size: 50px;
+}
